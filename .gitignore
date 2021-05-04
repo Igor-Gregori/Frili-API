@@ -33,6 +33,7 @@ yarn-error.log*
 # database files
 .sqlite
 .test.sqlite
+src/database/database.sqlite
 
 # vercel
 .vercel
